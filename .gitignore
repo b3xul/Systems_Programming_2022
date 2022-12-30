@@ -1,0 +1,4 @@
+.PVS-Studio/
+.idea/
+**/cmake-build-*/
+**/Solutions/**
